@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BlfsV0IC1O/f3AtGkSwm3E574ow/I0Gu7ncZOB13b0KC/BZFDA86htGUhqPPXjVyWj5vMYR+WA5gA9SCs0oj7A==",
+  "dgSpecHash": "Xn6TVL6Oic/gxHvxn55grxs+Ke8s/t27kZPjKLiGugbYXP2DtTor1P/ZrHDZXDH77H9ET3njxdV6ZnLbNMaGmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\Documents\\Coding\\Codeboxx\\Rocket_Elevators_REST_API\\Rocket_Elevators_REST_API\\Rocket_Elevators_REST_API\\Rocket_Elevators_REST_API.csproj",
+  "projectFilePath": "C:\\Users\\utilisateur\\Desktop\\Rocket-Elevator_Rest_Api\\Rocket_Elevators_REST_API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\samue\\.nuget\\packages\\mysqlconnector\\1.0.0\\mysqlconnector.1.0.0.nupkg.sha512"
+    "C:\\Users\\utilisateur\\.nuget\\packages\\mysqlconnector\\1.0.0\\mysqlconnector.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
