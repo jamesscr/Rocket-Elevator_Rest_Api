@@ -12,10 +12,10 @@ We implemented a REST API in C# that is capable of manipulating various entity's
  ## INSTRUCTIONS TO FOLLOW
  
  ## 1 - Click link to open Postman and access the collections needed for the queries
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3f98d5e6a531e3025b47)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/8dc974a18a4a29d5e4e6)
 
 
-## 2 - On the left panel click Collections and Open the Folder W8-OlivierGodbout
+## 2 - On the left panel click Collections and Open the Folder W9-JamesAllan
 The sub-folder RestAPI contains the queries you'll want to run, open it up and select one. For GET/PUT queries that target a single entity you can change the target id in the URL next to GET/PUT(Whichever one your query is doing)</br>
 `https://roelevator.azurewebsites.net/api/elevators/<CHANGE ME>`</br>
 To change the status on PUT requests click on the body tab in the upper panel and change the status to either "Active", "Inactive" or "Intervention"
