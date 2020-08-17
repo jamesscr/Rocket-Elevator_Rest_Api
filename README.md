@@ -17,7 +17,7 @@ We implemented a REST API in C# that is capable of manipulating various entity's
 
 ## 2 - On the left panel click Collections and Open the Folder W8-OlivierGodbout
 The sub-folder RestAPI contains the queries you'll want to run, open it up and select one. For GET/PUT queries that target a single entity you can change the target id in the URL next to GET/PUT(Whichever one your query is doing)</br>
-`https://imastuden.azurewebsites.net/api/elevators/<CHANGE ME>`</br>
+`https://roelevator.azurewebsites.net/api/elevators/<CHANGE ME>`</br>
 To change the status on PUT requests click on the body tab in the upper panel and change the status to either "Active", "Inactive" or "Intervention"
  
  ![View of Postman](https://i.imgur.com/Um1JCw5.png)
@@ -26,13 +26,13 @@ To change the status on PUT requests click on the body tab in the upper panel an
 ![View of Postman](https://i.imgur.com/25Dn8l5.png)
 
 ## You can also take view some of the request directly via the Azure deployment in the links below
-**Check the status of an elevator -** http://imastuden.azurewebsites.net/api/elevators/1 \
-**Get the list of elevator that are not in operation -** http://imastuden.azurewebsites.net/api/inactiveelevators \
-**Check the status of a column -** http://imastuden.azurewebsites.net/api/columns/1 \
-**Check the status of a battery -** http://imastuden.azurewebsites.net/api/batteries/1 \
-**Get list of buildings that have a battery/column/elevator intervention -** http://imastuden.azurewebsites.net/api/buildings \
-**Retrieve a list of Leads from the last 30 days are not yet customers -** http://imastuden.azurewebsites.net/api/leads \
-**Retrieve a list of quotes with for commercial buildings with excellium products -** http://imastuden.azurewebsites.net/api/quotes
+**Check the status of an elevator -** http://roelevator.azurewebsites.net/api/elevators/1 \
+**Get the list of elevator that are not in operation -** http://roelevator.azurewebsites.net/api/inactiveelevators \
+**Check the status of a column -** http://roelevator.azurewebsites.net/api/columns/1 \
+**Check the status of a battery -** http://roelevator.azurewebsites.net/api/batteries/1 \
+**Get list of buildings that have a battery/column/elevator intervention -** http://roelevator.azurewebsites.net/api/buildings \
+**Retrieve a list of Leads from the last 30 days are not yet customers -** http://roelevator.azurewebsites.net/api/leads \
+**Retrieve a list of quotes with for commercial buildings with excellium products -** http://roelevator.azurewebsites.net/api/quotes
 
 
 
